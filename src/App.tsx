@@ -1,7 +1,7 @@
-// import HorizontalNavbar from "./Components/MovableNavbar";
-// import NativeWebSocketaAPI from "./Components/NativeWebSocketaAPI";
-// import ScrollOnCategory from "./Components/ScrollOnCategory";
-// import FoodCategories from "./Components/ScrollOnCategoryChatGPT";
+import HorizontalNavbar from "./Components/MovableNavbar";
+import NativeWebSocketaAPI from "./Components/NativeWebSocketaAPI";
+import ScrollOnCategory from "./Components/ScrollOnCategory";
+import FoodCategories from "./Components/ScrollOnCategoryChatGPT";
 import { ToastContainer } from "react-toastify";
 import PaymentForm from "./Components/WebsocketTimeOut";
 import WebsocketTimeOut2 from "./Components/WebsocketTimeOut2";
